@@ -2,6 +2,6 @@
 
 int main()
 {
-	printf("Hello World!, Can you hear me?\n");
+	printf("Hello World!,I can hear you");
 	return 0;
 }
